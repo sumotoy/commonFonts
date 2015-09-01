@@ -1,7 +1,7 @@
 #ifndef _common_font_LiberationSerif_
 #define _common_font_LiberationSerif_
 
-#include "font_parameters.h"
+//#include "font_parameters.h"
 
 #ifdef __cplusplus
 extern "C" {

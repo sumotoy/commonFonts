@@ -1,7 +1,7 @@
 #ifndef _common_font_LiberationSansNarrowBoldItalic_
 #define _common_font_LiberationSansNarrowBoldItalic_
 
-#include "font_parameters.h"
+//#include "font_parameters.h"
 
 #ifdef __cplusplus
 extern "C" {

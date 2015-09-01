@@ -1,7 +1,7 @@
 #ifndef _common_font_ChanceryItalic_
 #define _common_font_ChanceryItalic_
 
-#include "font_parameters.h"
+//#include "font_parameters.h"
 
 #ifdef __cplusplus
 extern "C" {
